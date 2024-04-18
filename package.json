@@ -1,0 +1,21 @@
+{
+  "name": "ai-spotify-playlist-curator",
+  "version": "1.0.0",
+  "description": "This is a Python-based full-stack web application that integrates with the Spotify Web API to create music playlists based on user input. The application uses Flask as the web framework and has a responsive front end created with HTML, CSS, and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
